@@ -7,7 +7,7 @@
 <div>
   <a href="https://github.vom/nephilimtelos">
     <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=nephilimtelos&show_icons=true&theme=tokyonight">
-      <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nephilimtelos&layout=compact&langs_count=16&theme=tokyonight">
+      <img height="100cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nephilimtelos&layout=compact&theme=tokyonight">
 </div>
     
 <div style="display: inline_block"><br>
