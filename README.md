@@ -6,14 +6,8 @@
 -  🚀 Undergoing a graduation of Systems Development and Analysis at Universidade Cruzeiro do Sul
   
 -  💻 Currently working as an IT Intern at Gafisa
-
-##
   
-<div>
-  <a href="https://github.vom/nephilimtelos">
-    <img height="170cm" src="https://github-readme-stats.vercel.app/api?username=nephilimtelos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-      <img height="170cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nephilimtelos&layout=compact&langs_count=7&theme=dark"/>
-</div>
+
 
 ## 👨‍💻 My Skills    
 <div style="display: inline_block"><br>
@@ -27,9 +21,13 @@
 
 ##
 
+<div>
+   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=nephilimtelos&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
+   <img height="170cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nephilimtelos&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
 <div> 
   <a href="https://www.instagram.com/e_bmann/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:eric.bormann2@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/eric-bormann/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+  <a href="mailto:eric.bormann2@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/eric-bormann/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
