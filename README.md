@@ -1,13 +1,15 @@
-### Bem vindo ao meu perfil! Eu me chamo Eric Bormann
-- 🎓 Formado em Design de Games
-- 💻 Trabalhando da área de TI
+<h1 align="center">Welcome to my profile! My name is Eric Bormann</h1>
+
+- ### 🎓 Bachelor's degree in Game Design 🎮
+- ### 👨‍💻 Undergoing a graduation of Systems Development and Analysis
+- ### 💻 Currently working as an IT Intern
 
 ##
   
 <div>
   <a href="https://github.vom/nephilimtelos">
     <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=nephilimtelos&show_icons=true&theme=tokyonight">
-      <img height="115cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nephilimtelos&layout=compact&theme=tokyonight">
+      <img height="130cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nephilimtelos&layout=compact&theme=tokyonight">
 </div>
     
 <div style="display: inline_block"><br>
@@ -21,8 +23,8 @@
 ##
 
 <div> 
-  <a href="https://instagram.com/ebmann" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/e_bmann/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:eric.bormann2@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/eric-bormann/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
