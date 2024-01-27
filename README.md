@@ -1,23 +1,29 @@
 <h1 align="center">Welcome to my profile! My name is Eric Bormann</h1>
 
-- ### 🎓 Bachelor's degree in Game Design 🎮
-- ### 👨‍💻 Undergoing a graduation of Systems Development and Analysis
-- ### 💻 Currently working as an IT Intern
+### About Me
+-  🎓 Finished a bachelor's degree in Game Design at Universidade Anhembi Morumbi 🎮
+   
+-  🚀 Undergoing a graduation of Systems Development and Analysis at Universidade Cruzeiro do Sul
+  
+-  💻 Currently working as an IT Intern at Gafisa
 
 ##
   
 <div>
   <a href="https://github.vom/nephilimtelos">
-    <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=nephilimtelos&show_icons=true&theme=tokyonight">
-      <img height="130cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nephilimtelos&layout=compact&theme=tokyonight">
+    <img height="170cm" src="https://github-readme-stats.vercel.app/api?username=nephilimtelos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+      <img height="170cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nephilimtelos&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-    
+
+# 👨‍💻 My Skills    
 <div style="display: inline_block"><br>
-  <img align="center" alt="Eric-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Eric-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="Eric-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Eric-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Eric-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Eric-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+  <img align="center" alt="Eric-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img align="center" alt="Eric-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+  <img align="center" alt="Eric-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+  <img align="center" alt="Eric-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
+  <img align="center" alt="Eric-Blender" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg"/>
+  <img align="center" alt="Eric-Blender" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/>
 </div>
 
 ##
