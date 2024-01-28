@@ -23,7 +23,7 @@
 
 <br></br>
 <div>
-   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=nephilimtelos&show_icons=true&theme=dark&include_all_commits=true&count_private=false&rank_icon=github"/>
+   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=nephilimtelos&show_icons=true&theme=dark&include_all_commits=true&count_private=true&rank_icon=github"/>
    <img height="170cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nephilimtelos&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
