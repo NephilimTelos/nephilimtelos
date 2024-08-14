@@ -5,7 +5,7 @@
    
 -  🚀 Undergoing a graduation of Systems Development and Analysis at Universidade Cruzeiro do Sul
   
--  💻 Currently working as an IT Intern at Gafisa
+-  💻 Currently working as Business Intelligence Assistant at Johnson & Johnson
   
 
 
